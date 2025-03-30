@@ -13,4 +13,5 @@ losowania: od, do, ile
 
 ❌ 5.0 Skrypt w bashu do uruchamiania aplikacji w Pascalu via docker
 
+https://github.com/user-attachments/assets/428c8dba-0c46-4b37-a314-d8b9f2336729
 
