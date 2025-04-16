@@ -31,3 +31,20 @@ CRUD [Link do kodu]([https://github.com/michalharasim/projektowanie-obiektowe-uj
 
 https://github.com/user-attachments/assets/d28b380b-ca0f-4683-84d1-b4324953bea0
 
+**Zadanie 3 Kotlin Spring**
+
+✅ 3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z
+listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot [Link do kodu](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/blob/main/zad3/src/main/kotlin/dev/michalharasim/zad3/controllers/AuthController.kt)
+
+❌ 3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w
+formie eager [Link do kodu](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/blob/main/zad3/src/main/kotlin/dev/michalharasim/zad3/services/AuthServiceEager.kt)
+
+❌ 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika [Link do kodu](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/blob/main/zad3/src/main/kotlin/dev/michalharasim/zad3/controllers/AuthController.kt)
+
+❌ 4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired [Link do kodu](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/blob/main/zad3/src/main/kotlin/dev/michalharasim/zad3/controllers/AuthController.kt)
+
+❌ 5.0 Obok wersji Eager do wyboru powinna być wersja Singletona w wersji lazy [Link do kodu](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/blob/main/zad3/src/main/kotlin/dev/michalharasim/zad3/services/AuthServiceLazy.kt)
+
+https://github.com/user-attachments/assets/f3091f64-a08b-4b00-8a1a-817299f2902b
+
+
