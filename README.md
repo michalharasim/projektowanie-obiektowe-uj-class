@@ -59,6 +59,7 @@ dane załadować z listy przy uruchomieniu [Link do kodu](https://github.com/mic
 
 ❌ 4.0 Należy stworzyć klasę proxy, która pobierze dane z serwisu
 zewnętrznego podczas zapytania do naszego kontrolera
+
 ❌ 4.5 Należy zapisać pobrane dane z zewnątrz do bazy danych
 
 ❌ 5.0 Należy rozszerzyć endpoint na więcej niż jedną lokalizację
