@@ -48,3 +48,22 @@ formie eager [Link do kodu](https://github.com/michalharasim/projektowanie-obiek
 https://github.com/user-attachments/assets/f3091f64-a08b-4b00-8a1a-817299f2902b
 
 
+**Zadanie 4 GO**
+
+✅ 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie
+miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie
+(lub akcjach giełdowych) [Link do kodu](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/blob/main/zad4/controllers/stockController.go)
+
+✅ 3.5 Należy stworzyć model Pogoda (lub Giełda) wykorzystując gorm, a
+dane załadować z listy przy uruchomieniu [Link do kodu](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/blob/main/zad4/models/stock.go)
+
+✅ 4.0 Należy stworzyć klasę proxy, która pobierze dane z serwisu
+zewnętrznego podczas zapytania do naszego kontrolera
+✅ 4.5 Należy zapisać pobrane dane z zewnątrz do bazy danych
+
+✅ 5.0 Należy rozszerzyć endpoint na więcej niż jedną lokalizację
+(Pogoda), lub akcje (Giełda) zwracając JSONa
+
+https://github.com/user-attachments/assets/7ab8022f-8598-40a5-a8fb-b174d55af532
+
+
