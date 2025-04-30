@@ -67,4 +67,26 @@ zewnętrznego podczas zapytania do naszego kontrolera
 
 https://github.com/user-attachments/assets/7ab8022f-8598-40a5-a8fb-b174d55af532
 
+**Zadanie 5 React**
+
+✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
+Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
+Produktach powinniśmy pobierać dane o produktach z aplikacji
+serwerowej; [Link do kodu](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/tree/main/zad5)
+
+❌ 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing
+
+❌ 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za
+pomocą React hooks
+
+❌ 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz
+kliencką na dockerze via docker-compose
+
+❌ 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS
+
+
+https://github.com/user-attachments/assets/ea06cd69-cdc9-4a3b-85f0-4fba762bc8b9
+
+
+
 
