@@ -88,5 +88,42 @@ kliencką na dockerze via docker-compose
 https://github.com/user-attachments/assets/ea06cd69-cdc9-4a3b-85f0-4fba762bc8b9
 
 
+**Zadanie 6 Sonar**
+
+✅ 3.0 Należy dodać eslint w hookach gita [Link do commita](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad6/pre-commit)
+
+✅ 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
+aplikacji klienckiej) Brak zmian
+
+✅ 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
+aplikacji klienckiej) Link do commita](https://github.com/michalharasim/e-biznes-uj-class/commit/3fc9e3e1f5fd106d62654244e92e00c3263f5801)
+[Link do commita](https://github.com/michalharasim/e-biznes-uj-class/commit/a313b1f254a1ca528ac7971fee1324923d2f8766)
+[Link do commita](https://github.com/michalharasim/e-biznes-uj-class/commit/70f35c206cd8d6cb1a21cbc38a82aabbec534e3c)
+
+✅ 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa
+w kodzie w Sonarze (kod aplikacji klienckiej) Brak zmian
+
+✅ 5.0 Zredukować duplikaty kodu do 0% Brak zmian
+
+BACKEND
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ebiznes_backend)](https://sonarcloud.io/summary/new_code?id=ebiznes_backend)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_backend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ebiznes_backend)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_backend&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ebiznes_backend)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_backend&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ebiznes_backend)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_backend&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ebiznes_backend)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_backend&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ebiznes_backend)
+
+FRONTEND
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ebiznes_frontend)](https://sonarcloud.io/summary/new_code?id=ebiznes_frontend)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_frontend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ebiznes_frontend)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_frontend&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ebiznes_frontend)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_frontend&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ebiznes_frontend)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_frontend&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ebiznes_frontend)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_frontend&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ebiznes_frontend)
+
 
 
