@@ -1,0 +1,1 @@
+Zadanie zostało wykonane w [LINK](https://github.com/michalharasim/e-biznes-uj-class/tree/main/zad6)
