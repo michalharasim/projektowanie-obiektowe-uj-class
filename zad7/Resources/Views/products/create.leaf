@@ -1,0 +1,20 @@
+#extend("base"):
+  #export("body"):
+    <h1>Dodaj nowy produkt</h1>
+    <form method="post" action="/products" style="max-width: 400px; padding: 40px; border: 1px solid #ddd; border-radius: 8px; background-color: #fafafa;">
+      
+      <label for="name" style="display: block; margin-bottom: 8px; font-weight: bold;">Nazwa produktu:</label>
+      <input type="text" name="name" id="name" required
+             style="width: 100%; padding: 8px; margin-bottom: 16px; border: 1px solid #ccc; border-radius: 4px; font-size: 16px;">
+      
+      <label for="price" style="display: block; margin-bottom: 8px; font-weight: bold;">Cena:</label>
+      <input type="number" name="price" id="price" step="0.01" required
+             style="width: 100%; padding: 8px; margin-bottom: 24px; border: 1px solid #ccc; border-radius: 4px; font-size: 16px;">
+      
+      <button type="submit"
+              style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px;">
+        Zapisz
+      </button>
+    </form>
+  #endexport
+#endextend

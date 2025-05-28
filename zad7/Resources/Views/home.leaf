@@ -1,0 +1,7 @@
+#extend("base"):
+    #export("body"):
+        <h1>Welcome to the Product App</h1>
+        <a href="/products">View Products</a>
+    #endexport
+#endextend
+
