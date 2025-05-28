@@ -126,4 +126,17 @@ FRONTEND
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_frontend&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ebiznes_frontend)
 
 
+**Zadanie 7 Vapor(Swift)**
+
+✅ 3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w ORM Fluent [Link do commita](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/tree/main/zad7)
+
+✅ 3.5 Należy stworzyć szablony w Leaf [Link do commita](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/tree/main/zad7)
+
+❌ 4.0 Należy stworzyć drugi model oraz kontroler Kategorii wraz z relacją
+
+❌ 4.5 Należy wykorzystać Redis do przechowywania danych
+
+❌ 5.0 Wrzucić aplikację na heroku
+
+https://github.com/user-attachments/assets/d5aef38e-ac5a-4f5f-a605-c070b82d932c
 
