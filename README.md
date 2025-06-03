@@ -140,3 +140,17 @@ FRONTEND
 
 https://github.com/user-attachments/assets/d5aef38e-ac5a-4f5f-a605-c070b82d932c
 
+**Zadanie 8 Testy**
+
+✅ 3.0 Należy stworzyć 30 przypadków testowych w Pythonie w WebDriverze [Link do commita](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/blob/main/zad8/tests/tests.py)
+
+❌ 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 100 asercji
+
+❌ 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego projektu z minimum 100 asercjami
+
+❌ 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
+
+❌ 5.0 Należy uruchomić testy funkcjonalne na Browserstacku na urządzeniu mobilnym
+
+https://github.com/user-attachments/assets/26ef593b-9edc-4480-ad34-05b9341da4ff
+
