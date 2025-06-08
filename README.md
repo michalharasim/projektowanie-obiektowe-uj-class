@@ -154,3 +154,17 @@ https://github.com/user-attachments/assets/d5aef38e-ac5a-4f5f-a605-c070b82d932c
 
 https://github.com/user-attachments/assets/26ef593b-9edc-4480-ad34-05b9341da4ff
 
+**Zadanie 9 Mobile (Android)**
+
+✅ 3.0 tworzyć listę kategorii oraz produktów [Link do commita](https://github.com/michalharasim/projektowanie-obiektowe-uj-class/tree/main/zad9/app/src/main/java/dev/michalharasim/zad9)
+
+❌ 3.5 dodać widok koszyka
+
+❌ 4.0 stworzyć bazę w Realmie
+
+❌ 4.5 dodać płatności w Stripe
+
+❌ 5.0 dodać logowanie i rejestrację via Oauth2
+
+https://github.com/user-attachments/assets/0d452f29-6e00-446a-9264-3058f0e3c18f
+
